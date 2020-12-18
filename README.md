@@ -10,6 +10,6 @@
 <h2>画面イメージ</h2>
 
 <p>
-  <img src="" width="200" height="400">
+  <img src="https://user-images.githubusercontent.com/58414435/102615835-e85a1c80-4179-11eb-9f1e-1e21ffd971b8.png" width="200" height="400">
 </p>
 
